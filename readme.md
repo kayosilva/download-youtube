@@ -1,9 +1,11 @@
 App simples com api em node para download de videos do youtube.
 
 Para executar o front local bata apenas executar os comandos abaixo para instalar a dependencia node http-server
+
 npm install
 
 para subir o front execute o comando, o serviço irá subir na porta 3010
+
 npm start
 
 Depois entre na pasta server
